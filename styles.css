@@ -32,13 +32,13 @@ body {
 .container {
   background-color: var(--white);
   padding: 1.25rem;
-  border-radius: 0.625rem;
+  border-radius: 1rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
   margin-bottom: 2rem;
 }
 
 .container img {
-  border-radius: 0.625rem;
+  border-radius: 1rem;
   margin-bottom: 1rem;
 }
 
